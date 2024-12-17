@@ -1,0 +1,14 @@
+.idea
+.project
+.cproject
+.settings
+*.o
+*.so
+*.d
+*.mk
+*.a
+Release
+Debug
+build
+test_save_config.cfg
+.idea

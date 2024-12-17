@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "main_memoria.h": "c",
+        "main_kernel.h": "c"
+    }
+}
